@@ -13,4 +13,6 @@ func main() {
 	practice.Operator()
 	practice.Conditional()
 	practice.Loop()
+	practice.Function()
+	practice.AnonFunction()
 }
