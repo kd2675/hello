@@ -22,8 +22,11 @@ func DataType() {
 	fmt.Println(g, h, i)
 
 	j := []byte("hello_j")
+	var n = []byte("hello_n")
 	k := string(j)
 	l := []string{"hello_l", "hello_l2"}
 	m := map[string]string{"hello_m": "hello_m2"}
+	m["test"] = "test2"
 	fmt.Println(j, k, l, m)
+	fmt.Println(n)
 }

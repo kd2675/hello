@@ -11,4 +11,5 @@ func main() {
 	practice.Variable()
 	practice.DataType()
 	practice.Operator()
+	practice.Conditional()
 }
