@@ -12,4 +12,5 @@ func main() {
 	practice.DataType()
 	practice.Operator()
 	practice.Conditional()
+	practice.Loop()
 }
