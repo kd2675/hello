@@ -1,4 +1,4 @@
-package practice
+package chapter
 
 func Operator() {
 	a := 1

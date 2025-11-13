@@ -1,4 +1,4 @@
-package practice
+package chapter
 
 func Function() {
 	msg := "hi"

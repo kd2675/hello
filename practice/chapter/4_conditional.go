@@ -1,4 +1,4 @@
-package practice
+package chapter
 
 func Conditional() {
 	if i := 0; i < 1 {

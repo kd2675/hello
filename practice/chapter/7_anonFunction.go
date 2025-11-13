@@ -1,4 +1,4 @@
-package practice
+package chapter
 
 func AnonFunction() {
 	printer := func(msgs ...string) {
